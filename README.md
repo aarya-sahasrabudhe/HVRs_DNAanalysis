@@ -1,5 +1,5 @@
 # Mitochondrial DNA Hypervariable Regions Analysis (HVR1 & HVR2)
-This repository contains my project **"HVRs_DNA_analysis.ipynb"**, which was done as a part of "AI in Biotechnology:Fundamentals to Frontiers" course through Biogrademy
+This repository contains my project **"DNA sequence analysis on Highly Variable Regions(HVRs)"**, which was done as a part of "AI in Biotechnology:Fundamentals to Frontiers" course through Biogrademy
 
 # Project Overview
 The project focuses on analyzing the **hypervariable regions (HVR1 and HVR2)** of the **human mitochondrial DNA (mtDNA)**.  
