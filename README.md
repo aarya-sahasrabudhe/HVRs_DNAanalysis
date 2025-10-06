@@ -1,8 +1,4 @@
-# HVRs_DNAanalysis
-DNA analysis of Mitochondrial Hypervariable Regions (HVR) using Python
-
 # Mitochondrial DNA Hypervariable Regions Analysis (HVR1 & HVR2)
-
 This repository contains my project **"HVRs_DNA_analysis.ipynb"**, which was done as a part of "AI in Biotechnology:Fundamentals to Frontiers" course through Biogrademy
 
 # Project Overview
